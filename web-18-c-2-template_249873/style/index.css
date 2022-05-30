@@ -1,0 +1,18 @@
+#navbar{
+            height: 70px;
+            width: 100%;
+            border: 1px solid black;
+            display: flex;
+            gap: 40px;
+            justify-content: flex-end;
+            background-color: teal;
+            color: white;
+
+}
+#navbar>div{
+            margin-top: 25px;
+}
+a{
+            text-decoration: none;
+            color: white;
+}
